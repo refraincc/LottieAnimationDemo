@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-LottieAnimationDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-LottieAnimationDemoTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-LottieAnimationDemoUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>lottie-ios.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>017653E2E48B0CC14E4BB5342FB2EE43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>471EDF8482A09C5C5EE7C47C564D8F56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B1D606D1EE74730AF3DACD886456B0E2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3605F4A8B01EBCE42D64EDED25DED36</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
